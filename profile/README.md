@@ -35,6 +35,10 @@ https://calendly.com/hackerranktest/60min
 
 ---
 
+## If you have a new unlisted solution, please mail to hackerranktest@outlook.com. You will be also invited as a member.
+
+---
+
 # Thanks for visiting my Git! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" height="40px">
 <a target="blank" href="https://profile-counter.glitch.me/hackerranktest-solution/count.svg"><p align="center">💖 Visited Counts 💖<br><br> <img src="https://profile-counter.glitch.me/hackerranktest-solution/count.svg" /></a>
 
