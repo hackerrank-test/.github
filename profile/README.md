@@ -16,6 +16,7 @@
 - [Node.js](https://github.com/hackerrank-test/hackerrank-nodejs-test)
 - [JavaScript](https://github.com/hackerrank-test/hackerrank-javascript-test)
 - [SQL](https://github.com/hackerrank-test/hackerrank-sql-test)
+- [VanillaJS](https://github.com/hackerrank-test/hackerrank-vanillajs-test)
 - [Java](https://github.com/hackerrank-test/hackerrank-java-test)
 
 <div>
