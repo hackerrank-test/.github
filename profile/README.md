@@ -30,12 +30,6 @@
 
 ---
 
-## If you are preparing a test, feel free to ask to me to help online for your test.
-
-https://calendly.com/hackerranktest/60min
-
----
-
 ## If you have a new unlisted solution, please mail to hackerranktest@outlook.com. You will be also invited as a member.
 
 ---
